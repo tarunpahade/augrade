@@ -1,0 +1,8 @@
+{
+    "gitlens.proxy": {
+        
+        "url": "http://username:password@proxy.example.com:port",
+        "strictSSL": false
+    },
+    "go.toolsManagement.checkForUpdates": "proxy"
+}
